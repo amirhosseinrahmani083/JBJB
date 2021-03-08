@@ -1,0 +1,2 @@
+c:\users\nasir\documents\visual studio 2015\Projects\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.exe.config
+C:\Users\nasir\Desktop\New folder (2)\JBJB\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.exe.config
